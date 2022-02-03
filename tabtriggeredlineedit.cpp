@@ -3,6 +3,7 @@
 TabTriggeredLineEdit::TabTriggeredLineEdit(QWidget* parent)
   : QLineEdit(parent)
 {
+    setFocusPolicy(Qt::ClickFocus);
 }
 
 void TabTriggeredLineEdit::mouseDoubleClickEvent(QMouseEvent* e)

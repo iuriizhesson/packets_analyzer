@@ -28,12 +28,14 @@ SOURCES += \
         main.cpp \
         mainwindow.cpp \
     tabtriggeredlineedit.cpp \
-    modbuscrccalculator.cpp
+    modbuscrccalculator.cpp \
+    stpmcrccalculator.cpp
 
 HEADERS += \
         mainwindow.h \
     tabtriggeredlineedit.h \
-    modbuscrccalculator.h
+    modbuscrccalculator.h \
+    stpmcrccalculator.h
 
 FORMS += \
         mainwindow.ui

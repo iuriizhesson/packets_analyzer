@@ -1,0 +1,10 @@
+main.cpp
+mainwindow.cpp
+mainwindow.h
+mainwindow.ui
+modbuscrccalculator.cpp
+modbuscrccalculator.h
+stpmcrccalculator.cpp
+stpmcrccalculator.h
+tabtriggeredlineedit.cpp
+tabtriggeredlineedit.h
